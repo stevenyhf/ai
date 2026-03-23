@@ -1,0 +1,7 @@
+title: 杨浩峰频道-AI
+theme: minima
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
